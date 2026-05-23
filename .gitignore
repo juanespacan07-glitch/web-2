@@ -1,0 +1,73 @@
+# Creado por https://www.toptal.com/developers/gitignore/api/sbt,wakanda,web,swiftpackagemanager
+# Editar en https://www.toptal.com/developers/gitignore?templates=sbt,wakanda,web,swiftpackagemanager
+
+### SBT ###
+# Herramienta de compilación simple
+# http://www.scala-sbt.org/release/docs/Getting-Started/Directories.html#configuring-version-control
+
+dist/*
+objetivo/
+lib_managed/
+src_managed/
+proyecto/arranque/
+proyecto/plugins/proyecto/
+.historia
+.cache
+.lib/
+
+### Parche SBT ###
+.bsp/
+
+### SwiftPackageManager ###
+Paquetes
+.construir/
+xcuserdata
+Datos derivados/
+*.xcodeproj
+
+
+### Wakanda ###
+# Preferencias del estudio de Wakanda
+*.waPreferences
+
+# Registro de Wakanda
+*.waLog
+*/Registros
+registro_de_estudio*
+
+# Símbolos del código de Wakanda
+*.waSym
+*.waSymData
+
+# Índice de Wakanda
+*.waIndx
+*.Fósforo
+
+# Datos de Wakanda
+*.waData
+*(compactando)*
+
+# Usuarios y grupos de Wakanda
+*.cacheUAG
+Directorio *.wa
+
+# Respaldo de Wakanda
+*.waBackup
+*.puntos de interrupción
+
+### Web ###
+*.áspid
+*.cer
+*.csr
+*.css
+*.htm
+*.html
+*.js
+*.jsp
+*.php
+*.rss
+*.wasm
+*.qué
+*.xhtml
+
+# Fin de https://www.toptal.com/developers/gitignore/api/sbt,wakanda,web,swiftpackagemanage
